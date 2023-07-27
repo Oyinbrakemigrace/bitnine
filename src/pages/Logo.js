@@ -91,6 +91,11 @@ const Logo = () => {
             </div>
           </div>
         </section>
+        <section className="enterprisePackage">
+          <h2>Agens Enterprise Package</h2>
+          <p>Agens Enterprise Package comes with a high availability management server that
+supports backup and data monitoring dashboard that helps enterprise customers manage their data efficiently.</p>
+        </section>
       </div>
     </div>
   );
